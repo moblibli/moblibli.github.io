@@ -24,7 +24,7 @@
   display: flex;
 }
 
-button {
+.button {
   height: 80px;
   background-color: #272727;
   border: 1px solid #kkk;
@@ -36,4 +36,3 @@ button {
 .all-clear, .zero-btn{
   width: 50%
   }
- 
